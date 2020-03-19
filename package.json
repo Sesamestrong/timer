@@ -1,5 +1,5 @@
 {
-  "name": "timer",
+  "name": "@sesamestrong/timer",
   "version": "1.0.0",
   "main": "timer.js",
   "scripts": {
